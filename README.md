@@ -22,4 +22,4 @@
 
 Скрины работы приложения:
 
-![2]()
+![2](https://github.com/PavelLogeiko/Spring_HW04_02/blob/main/images/2.png)
